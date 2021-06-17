@@ -1,0 +1,3 @@
+web: ./WhatsAppToDiscord
+
+worker: ./WhatsAppToDiscord
