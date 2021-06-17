@@ -1,3 +1,1 @@
-web: ./WhatsAppToDiscord
-
-worker: ./WhatsAppToDiscord
+web: python server.py
