@@ -1,3 +1,8 @@
+This is a clone from  FKLC/WhatsAppToDiscord (https://github.com/FKLC/WhatsAppToDiscord.git).
+
+==================================================================================================================================================================
+
+
 
 # WhatsAppToDiscord
 
